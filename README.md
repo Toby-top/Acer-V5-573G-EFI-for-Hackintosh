@@ -40,7 +40,7 @@
 ## Unavaliable Function 
 Testing...
 # Credit
-  [国光在2021年的黑苹果教程]（https://www.sqlsec.com/2021/07/opencore.html）
-  [黑果小兵的部落阁]（https://blog.daliansky.net/）
+  [国光在2021年的黑苹果教程](https://www.sqlsec.com/2021/07/opencore.html)
+  [黑果小兵的部落阁](https://blog.daliansky.net/)
   [OpenCore](https://github.com/acidanthera/OpenCorePkg)
   To be continue....
