@@ -1,9 +1,9 @@
 # This is a efi congfiguration file for Acer Aspire V5-573G hackintosh with OpenCore v1.0.3
-## Hardware
+  ## Hardware
   Intel Core i5-4200u Hasewell
   Nvdia GT 750m
   8GB RAM
-## Software
+  ## Software
   ### macOS ver
     10.15 Catanina
   ### ACPI 
@@ -37,7 +37,7 @@
     SMCProcessor.kext
     SMCSuperIO.kext
     VirtualSMC.kext
-## Unavaliable Function 
+  ## Unavaliable Function 
 Testing...
 # Credit
   [国光在2021年的黑苹果教程](https://www.sqlsec.com/2021/07/opencore.html)
