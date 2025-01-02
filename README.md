@@ -1,4 +1,4 @@
-#oops! This efi cannot boot
+# oops! This efi cannot boot
 
 
 # This is a efi configuration file for Acer Aspire V5-573G hackintosh with OpenCore v1.0.3
