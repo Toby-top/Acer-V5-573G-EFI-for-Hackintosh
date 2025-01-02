@@ -1,7 +1,7 @@
 # oops! This efi cannot boot
 
 
-# This is a efi configuration file for Acer Aspire V5-573G hackintosh with OpenCore v1.0.3
+This is a efi configuration file for Acer Aspire V5-573G hackintosh with OpenCore v1.0.3
   ## Hardware
   Intel Core i5-4200u Hasewell
   Nvdia GT 750m
